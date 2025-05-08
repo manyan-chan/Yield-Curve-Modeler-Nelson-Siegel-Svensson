@@ -1,5 +1,7 @@
 # Interactive Yield Curve Modeler (Nelson-Siegel-Svensson)
 
+![Screenshot](screenshot.png)
+
 This Streamlit application provides an interactive tool for understanding and utilizing the Nelson-Siegel-Svensson (NSS) model for yield curve fitting. Users can visualize how NSS parameters shape the yield curve, fit the model to user-provided or example market yield data, and optionally price a bond using the fitted curve.
 
 This tool is designed to showcase an understanding of fixed income analytics, interest rate modeling, and curve fitting techniques.
